@@ -1,5 +1,5 @@
 # Heading 1
 
-Bold* 
+**bold**
 
 *italic*
