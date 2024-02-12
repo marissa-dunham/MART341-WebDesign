@@ -1,3 +1,5 @@
 # Heading 1
-* italic
-* bold *
+
+Bold* 
+
+*italic*
