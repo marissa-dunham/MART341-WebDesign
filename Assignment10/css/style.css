@@ -33,7 +33,7 @@ div.align{
     position: relative;
     left: 20px;
     top:5px
-    color maroon;
+    color rgb(154, 40, 40);
     opacity: .75;
     font-size: 60px;
 }
