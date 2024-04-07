@@ -1,0 +1,39 @@
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.main-container {
+
+    /* Draw a solid border make it dark blue */
+    border-style: solid;
+    border-width: 10px;
+    border-color: darkblue;
+    /*Add space between the border and its inside elements. */
+    padding: 10px;
+    /* Color the background royal blue. */
+    background : royalblue;
+    width: 75%;
+    margin: auto;
+}
+
+div.align{
+    text-align: center;
+}
+
+.secondary-container{
+
+    margin: auto;
+    width:50%;
+    padding: 50px;
+    border-bottom: 1px black solid;
+    border-spacing: inherit;
+}
+
+#mainheader{
+    position: relative;
+    left: 20px;
+    top:5px
+    color maroon;
+    opacity: .75;
+    font-size: 60px;
+}
