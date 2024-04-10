@@ -7,12 +7,12 @@ div{
 .title{
     font-family: Permanent marker;
     font-size: 80px;
-    color:darkblue;
+    color:rgb(4, 4, 103);
     background-color: lightblue;
     text-align:left;
 }
 .element-1 {
-    font-size: 1.5em;
+    font-size: 30px;
     font-family: monospace;
 }
 a:link {
