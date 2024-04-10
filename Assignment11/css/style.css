@@ -2,7 +2,7 @@ div{
     text-align: left;
     font-family: monospace;
     font-style: normal;
-    margin: 30px
+    margin: 10px
 }
 .title{
     font-family: Permanent marker;
@@ -12,7 +12,7 @@ div{
     text-align:left;
 }
 .element-1 {
-    font-size: 30px;
+    font-size: 10px;
     font-family: monospace;
 }
 a:link {
