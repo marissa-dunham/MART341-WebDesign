@@ -6,13 +6,13 @@ div{
 }
 .title{
     font-family: Permanent marker;
-    font-size: 80px;
+    font-size: 55px;
     color:rgb(4, 4, 103);
     background-color: lightblue;
     text-align:left;
 }
 .element-1 {
-    font-size: 10px;
+    font-size: 20px;
     font-family: monospace;
 }
 a:link {
