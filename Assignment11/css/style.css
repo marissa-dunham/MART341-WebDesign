@@ -11,3 +11,19 @@ div{
     background-color: lightblue;
     text-align:left;
 }
+.element-1 {
+    font-size: 1.5em;
+    font-family: sans-serif;
+}
+a:link {
+    color: blueviolet;
+    text-decoration: none; 
+}
+a:visited {
+    color: gray;
+    text-decoration: none;
+}
+a:hover {
+    color:blue;
+    text-decoration: italic;
+}
