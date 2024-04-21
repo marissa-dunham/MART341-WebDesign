@@ -1,17 +1,17 @@
 .parent-container-01 {
-    background-color: darkorchid;
+    background-color:darkorchid;
     max-width: 300px;
     padding: 2em;
     margin: auto;
     border-width: 1em;
     border-style: outset;
-    border-color: black;
+    border-color: #373E42;
  }
  .child-container-01 {
     border-width: 2em;
     border-style: solid;
-    border-color: black;
-    background-color: pink;
+    border-color: #373E42;
+    background-color:plum;
     width: 75%;
     margin: auto;
     padding: 1em;
