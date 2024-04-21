@@ -38,9 +38,40 @@
  
  .menu-item:hover {
      background-color: white;
-     color: #333;
+     color: black;
  }
  
  .display-inline {
      display: inline;
  }
+ .dropdown {
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px black;
+    margin: 0;
+    margin-top: 0.5em;
+    color: black;
+    background-color: white;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: black;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em;
+    min-width: 7em;
+}
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: white;
+    background-color: plum;
+}
