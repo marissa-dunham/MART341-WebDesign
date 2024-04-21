@@ -1,24 +1,5 @@
-body{
-    font-family: Georgia;
-    font-style: normal;
-}
-.padding {
-    padding: 2em;
- }
- .padding-container {
-    font-size: 18pt;
-    color: white;
- }
- .box {
-    line-height: 1.45em;
-    background-color: palevioletred;
- }
- body{
-   font-family: Verdana, Arial, Tahoma;
-   font-size: 12px;
- }
- .parent-container-01 {
-    background-color: #79AF33;
+.parent-container-01 {
+    background-color: darkorchid;
     padding: 1em;
  }
  .child-container-01 {
@@ -30,5 +11,5 @@ body{
     text-align: center;
     padding: 2em;
     color: #000;
-    background-color: gold;
+    background-color: plum;
  }
