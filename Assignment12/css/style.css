@@ -2,14 +2,14 @@ body{
     font-family: Georgia;
     font-style: normal;
 }
-.with-padding {
+.padding {
     padding: 2em;
  }
- .padding-example-container {
+ .padding-container {
     font-size: 18pt;
     color: white;
  }
- .ex-box {
+ .box {
     line-height: 1.45em;
     background-color: palevioletred;
  }
