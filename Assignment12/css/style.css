@@ -1,19 +1,23 @@
-.parent-container {
-    width: 300px;
-    height: 300px;
-    background-color: lightpink;
- }
- .parent-container h2 {
-    font-size: x-large;
-    font-weight: bolder;
-    font-style: italic;
- }
- .inner-box {
-    width: 200px;
-    height: 200px;
+.parent-container-01 {
     background-color: darkorchid;
+    max-width: 300px;
+    padding: 2em;
+    margin: auto;
+    border-width: 1em;
+    border-style: outset;
+    border-color: black;
+ }
+ .child-container-01 {
+    border-width: 2em;
+    border-style: solid;
+    border-color: black;
+    background-color: pink;
+    width: 75%;
+    margin: auto;
+    padding: 1em;
+    text-align: center;
  }
  body{
-   font-family:'Times New Roman', Times, serif;
+   font-family: Verdana, Arial, Tahoma;
    font-size: 12px;
  }
