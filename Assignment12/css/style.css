@@ -13,6 +13,7 @@
     color: black;
     background-color: plum;
  }
+
  body {
     margin: 0.25em;
  }
@@ -42,4 +43,26 @@
  }
  .display-inline {
     display: inline;
+ }
+ .overflow-scroll {
+    overflow: scroll;
+ }
+ .parent-container-02 {
+    width: 100%;
+    max-width: 600px;
+    min-width:400px;
+    height: 350px;
+    background-color: plum;
+    margin-bottom: 50px;
+    color: black;
+ }
+ .inner-box {
+    width: 75%;
+    height: 50%;
+    background-color: darkorchid;
+    color: white;
+ }
+ body{
+   font-family: Verdana, Arial, Tahoma;
+   font-size: 12px;
  }
