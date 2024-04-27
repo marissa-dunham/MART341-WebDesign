@@ -63,3 +63,19 @@ body{
   font-family: Verdana, Arial, Tahoma;
   font-size: 12px;
 }
+.mainimage{
+    float: left;
+    content:url("../Images/olympic1.jpg");
+}
+.secondimage{
+    float: left;
+    content:url("../Images/olympic2.jpg");
+}
+.thirdimage{
+    margin: auto;
+    content:url("../Images/olympic3.jpg");
+}
+.fourthimage{
+    margin: auto;
+    content:url("../Images/olympic4.jpg");
+}
