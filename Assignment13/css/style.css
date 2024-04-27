@@ -1,0 +1,65 @@
+body{
+    background-color: seagreen;
+}
+header {
+    background-color: brown;
+    font-family: sans-serif;
+    font-size: 10pt;
+    text-transform: uppercase;
+    margin: 0;
+    height: 2.15em;
+    text-align: right;
+}
+
+.menu-item {
+    display: inline-block;
+    margin: 0 0;
+    min-width: 8em;
+    text-align: center;
+    background-color: brown;
+    padding: 0.5em 0;
+}
+
+.menu-item a {
+    color: white;
+    text-decoration: none;
+}
+.menu-item:hover {
+    background-color: lightgreen;
+}
+
+.dropdown {
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px brown;
+    margin: 0;
+    margin-top: 0.5em;
+    color: black;
+    background-color: white;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: black;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em;
+    min-width: 7em;
+}
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: lightgreen;
+    background-color: lightgray;
+}
+body{
+  font-family: Verdana, Arial, Tahoma;
+  font-size: 12px;
+}
