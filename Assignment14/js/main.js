@@ -11,4 +11,4 @@ ctx.stroke();
 
 
 ctx.font = "30px Arial";
-ctx.strokeText("Saturn", 100, 550);
+ctx.strokeText("Saturn", 20, 70);
