@@ -27,3 +27,7 @@ header {
 .menu-item:hover {
     background-color: rgb(80, 84, 169);
 }
+.mainimage{
+    float: left;
+    content:url("../Images/Saturn.png");
+}
