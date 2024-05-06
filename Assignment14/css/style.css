@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(133, 201, 222);
+}
+header {
+    background-color: brown;
+    font-family: sans-serif;
+    font-size: 10pt;
+    text-transform: uppercase;
+    margin: 0;
+    height: 2.15em;
+    text-align: right;
+}
+
+.menu-item {
+    display: inline-block;
+    margin: 0 0;
+    min-width: 8em;
+    text-align: center;
+    background-color: brown;
+    padding: 0.5em 0;
+}
+
+.menu-item a {
+    color: white;
+    text-decoration: none;
+}
+.menu-item:hover {
+    background-color: lightgreen;
+}
